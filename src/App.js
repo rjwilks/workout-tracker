@@ -79,7 +79,7 @@ const days = [
   },
 ];
 
-const upperLowerDays = ["UPPER", "LOWER"];
+
 
 const schedule = [
   { day: "Mon", workout: "PUSH", color: "#FF4D1C" },
